@@ -1,0 +1,12 @@
+{
+  "name": "3d-multiplayer-game-poc",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4",
+    "socket.io": "^1"
+  },
+  "devDependencies": {
+    "three": "^0.73"
+  }
+}
