@@ -2,6 +2,8 @@
 
 A 3D multiplayer game PoC with [Node.js](https://nodejs.org/), [Socket.IO](http://socket.io/) and [Three.js](http://threejs.org/)
 
+![Screenshot](https://rawgit.com/OlivierCoilland/3d-multiplayer-game-poc/master/screenshot.png)
+
 ## Features
 
 - Instant communication between client and server
