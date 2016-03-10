@@ -52,7 +52,7 @@ scene.add( sphere );
 var controls = new THREE.OrbitControls( camera, renderer.domElement );
 controls.enableZoom = false;
 controls.enablePan = false;
-controls.target = sphere.position;
+controls.target = sphere.position.clone();
 controls.update();
 
 // The animation loop.
